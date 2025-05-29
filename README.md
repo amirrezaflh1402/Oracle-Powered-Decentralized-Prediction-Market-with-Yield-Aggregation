@@ -30,7 +30,7 @@ This project implements a decentralized prediction market platform powered by or
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/Oracle-Powered-Decentralized-Prediction-Market-with-Yield-Aggregation.git
+git clone https://github.com/amirrezaflh1402/Oracle-Powered-Decentralized-Prediction-Market-with-Yield-Aggregation.git
 cd Oracle-Powered-Decentralized-Prediction-Market-with-Yield-Aggregation
 npm install
 ```
